@@ -22,6 +22,7 @@ sqlalchemy = "==2.0.23"
 typing-extensions = "==4.8.0"
 werkzeug = "==3.0.1"
 python-dotenv = "*"
+flask-cors = "*"
 
 [dev-packages]
 

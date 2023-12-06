@@ -5,24 +5,27 @@ from config import BasicConfig
 from models.models import Product, Category
 from helpers.functionscsv import generate_csv_categories, generate_csv_products
 from helpers.pdf_generator import pdf_generate
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
-
-app = Flask(__name__)
+CORS(app=app)
 app.config.from_object(BasicConfig)
 db.init_app(app)
 
 
+@cross_origin
 @app.route('/categories')
 def csv_categories():
     return generate_csv_categories()
 
 
+@cross_origin
 @app.route('/products')
 def csv_products():
     return generate_csv_products()
 
 
+@cross_origin
 @app.route("/products-pdf")
 def products_pdf():
     try:
@@ -37,6 +40,7 @@ def products_pdf():
         return jsonify({"ok": False, "error": e})
 
 
+@cross_origin
 @app.route("/categories-pdf")
 def categories_pdf():
     try:

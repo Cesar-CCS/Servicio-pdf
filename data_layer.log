@@ -558,3 +558,51 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 08:41:51] "GET /categories HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 08:42:23] "GET /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:18:59] "OPTIONS /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:19:23] "GET /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:20:14] "OPTIONS /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:20:55] "OPTIONS /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:21:16] "GET /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:23:16] "OPTIONS /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:26:44] "OPTIONS /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:28:39] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:28:47] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:30:31] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:32:10] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:32:22] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:33:45] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:34:02] "GET /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:35:17] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:37:56] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:41:06] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:42:54] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:42:58] "OPTIONS /products HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:44:10] "OPTIONS /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:44:12] "OPTIONS /categories-pdf HTTP/1.1" 200 -
