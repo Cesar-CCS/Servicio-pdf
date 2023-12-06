@@ -1,5 +1,5 @@
 import logging
-from flask import Flask, Response
+from flask import Flask, Response, jsonify
 from database.database import db
 from config import BasicConfig
 from models.models import Product, Category
@@ -25,18 +25,30 @@ def csv_products():
 
 @app.route("/products-pdf")
 def products_pdf():
-    columns = ["id", "name", "description", "price",]
-    products = Product.query.all()
-    w = 40
-    return pdf_generate("Productos", columns, products, w,)
+    try:
+        columns = ["id", "name", "description", "price",]
+        products = Product.query.all()
+        w = 40
+        results = pdf_generate("Productos", columns, products, w,)
+        response = jsonify({"ok": True, "results":  results})
+        response.headers['Content-Type'] = 'application/json'
+        return response
+    except Exception as e:
+        return jsonify({"ok": False, "error": e})
 
 
 @app.route("/categories-pdf")
 def categories_pdf():
-    columns = ["id", "name", "description"]
-    categories = Category.query.all()
-    w = 60
-    return pdf_generate("Categorias", columns, categories, w)
+    try:
+        columns = ["id", "name", "description"]
+        categories = Category.query.all()
+        w = 60
+        results = pdf_generate("Categorias", columns, categories, w)
+        response = jsonify({"ok": True, "results": results})
+        response.headers['Content-Type'] = 'application/json'
+        return response
+    except Exception as e:
+        return jsonify({"ok": False, "error": e})
 
 
 logging.basicConfig(level=logging.DEBUG, filename='data_layer.log')
