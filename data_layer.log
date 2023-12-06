@@ -1,0 +1,511 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:06:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:06:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:06:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:08:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:08:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:08:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:08:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:09:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:11:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:11:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:11:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:11:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:12:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:12:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:12:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:12:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:14:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:14:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:14:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:14:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\models\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:20:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:20:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:20:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:20:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:22:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:22:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:22:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:22:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:24:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:26:04] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:26:11] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:26:18] "GET /products HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:28:40] "GET /products HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:28:45] "[35m[1mGET /categories HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:28:45] "GET /categories?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:28:45] "GET /categories?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:28:45] "GET /categories?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:03] "[35m[1mGET /categories HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:03] "GET /categories?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:03] "[36mGET /categories?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:03] "GET /categories?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:05] "[35m[1mGET /categories HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:05] "[36mGET /categories?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:05] "[36mGET /categories?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:31:05] "[36mGET /categories?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:34:08] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\functionscsv.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\functionscsv.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:14] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:20] "[35m[1mGET /products HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:20] "GET /products?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:20] "GET /products?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:20] "GET /products?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:20] "[36mGET /products?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:25] "[35m[1mGET /products HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:25] "[36mGET /products?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:25] "[36mGET /products?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:25] "[36mGET /products?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:50:59] "GET /products HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 02:52:31] "GET /products HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:17] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:18] "GET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:18] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:18] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:50] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:50] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:50] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:10:50] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:11:20] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:11:20] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:11:20] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:11:20] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:02] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:02] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:02] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:02] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:54] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:54] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:54] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:12:54] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:12] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:12] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:12] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:12] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:39] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:21:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:22:56] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:22:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:23:01] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:23:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:23:42] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:24:35] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:24:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:26:53] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:26:53] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:26:53] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:26:53] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:08] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:08] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:08] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:08] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:30] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:31] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:31] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:31] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:56] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:27:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:28:23] "[35m[1mGET /products-pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:28:23] "[36mGET /products-pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:28:23] "GET /products-pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:28:23] "GET /products-pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:29:02] "GET /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:29:30] "GET /categories-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:29:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:29:56] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:29:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug: * Detected change in 'C:\\Users\\andra\\OneDrive\\Escritorio\\11vo Semestre\\Python\\Proyecto Final\\PVRestaurant microservicios\\Servicio-pdf\\helpers\\pdf_generator.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-615-208
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:30:57] "GET /products-pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:30:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 03:31:16] "GET /categories-pdf HTTP/1.1" 200 -

@@ -1,27 +1,42 @@
-from flask import Flask, make_response
-from pdf_generator import generar_pdf
-from Venta import Venta
-import base64
+import logging
+from flask import Flask, Response
+from database.database import db
+from config import BasicConfig
+from models.models import Product, Category
+from helpers.functionscsv import generate_csv_categories, generate_csv_products
+from helpers.pdf_generator import pdf_generate
 
 app = Flask(__name__)
 
-# Lista de ventas (simulación de una base de datos)
-ventas = []
+app = Flask(__name__)
+app.config.from_object(BasicConfig)
+db.init_app(app)
 
-# Agregar 5 ventas para la misma fecha (simulación)
-for i in range(1, 6):
-    venta = Venta(id_venta=i, fecha="2023-11-21", total_venta=100.0 * i, usuario=f"Usuario{i}")
-    ventas.append(venta)
 
-@app.route('/')
-def index():
-    return f'{ventas[0]}'
+@app.route('/categories')
+def csv_categories():
+    return generate_csv_categories()
 
-@app.route('/generar_pdf')
-def generar_pdf_route():
-    resp = generar_pdf(ventas)
-    response = {"ok":True, "results":resp}
-    return response
 
-if __name__ == '__main__':
-    app.run(debug=True, use_reloader=False)
+@app.route('/products')
+def csv_products():
+    return generate_csv_products()
+
+
+@app.route("/products-pdf")
+def products_pdf():
+    columns = ["id", "name", "description", "price",]
+    products = Product.query.all()
+    w = 40
+    return pdf_generate("Productos", columns, products, w,)
+
+
+@app.route("/categories-pdf")
+def categories_pdf():
+    columns = ["id", "name", "description"]
+    categories = Category.query.all()
+    w = 60
+    return pdf_generate("Categorias", columns, categories, w)
+
+
+logging.basicConfig(level=logging.DEBUG, filename='data_layer.log')
