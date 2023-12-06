@@ -1,6 +1,7 @@
 from flask import Flask, make_response
 from pdf_generator import generar_pdf
 from Venta import Venta
+import base64
 
 app = Flask(__name__)
 
@@ -18,13 +19,8 @@ def index():
 
 @app.route('/generar_pdf')
 def generar_pdf_route():
-    pdf_output = generar_pdf(ventas)
-    
-    # Crear una respuesta para el cliente
-    response = make_response(pdf_output)
-    response.headers['Content-Disposition'] = 'inline'#f'attachment; filename={pdf_output}'
-    response.headers['Content-type'] = 'application/pdf'
-
+    resp = generar_pdf(ventas)
+    response = {"ok":True, "results":resp}
     return response
 
 if __name__ == '__main__':

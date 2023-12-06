@@ -1,6 +1,12 @@
 from fpdf import FPDF
-import base64
-import tempfile
+from Venta import Venta
+
+ventas = []
+
+# Agregar 5 ventas para la misma fecha (simulación)
+for i in range(1, 6):
+    venta = Venta(id_venta=i, fecha="2023-11-21", total_venta=100.0 * i, usuario=f"Usuario{i}")
+    ventas.append(venta)
 
 def generar_pdf(ventas):
     if not ventas:
@@ -43,17 +49,9 @@ def generar_pdf(ventas):
     pdf.ln()
 
     # Guardar el PDF en un archivo
-    # '''pdf_output = f"ventas_{fecha}.pdf"
-    # pdf.output(pdf_output)
+    pdf_output = f"ventas_{fecha}.pdf"
+    pdf.output(pdf_output)
 
-    # print(f"PDF generado exitosamente: {pdf_output}")'''
+    print(f"PDF generado exitosamente: {pdf_output}")
 
-    with tempfile.NamedTemporaryFile(delete=False) as temp_file:
-        pdf.output(temp_file.name)
-
-    # Leer el contenido del archivo temporal
-    with open(temp_file.name, 'rb') as pdf_file:
-        # Codificar el contenido del PDF a Base64
-        base64_pdf = base64.b64encode(pdf_file.read()).decode('utf-8')
-
-    return base64_pdf
+generar_pdf(ventas)
