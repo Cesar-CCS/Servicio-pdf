@@ -16,13 +16,13 @@ db.init_app(app)
 @cross_origin
 @app.route('/categories')
 def csv_categories():
-    return generate_csv_categories()
+    return generate_csv_categories(), {"Access-Control-Allow-Origin": "*", "Access-Control-Allow-Credentials": "true",  "Access-Control-Allow-Headers": "Content-Type"}
 
 
 @cross_origin
 @app.route('/products')
 def csv_products():
-    return generate_csv_products()
+    return generate_csv_products(), {"Access-Control-Allow-Origin": "*", "Access-Control-Allow-Credentials": "true", "Access-Control-Allow-Headers": "Content-Type"}
 
 
 @cross_origin
@@ -35,7 +35,7 @@ def products_pdf():
         results = pdf_generate("Productos", columns, products, w,)
         response = jsonify({"ok": True, "results":  results})
         response.headers['Content-Type'] = 'application/json'
-        return response
+        return response, {"Access-Control-Allow-Origin": "*", "Access-Control-Allow-Credentials": "true", "Access-Control-Allow-Headers": "Content-Type"}
     except Exception as e:
         return jsonify({"ok": False, "error": e})
 
@@ -50,7 +50,7 @@ def categories_pdf():
         results = pdf_generate("Categorias", columns, categories, w)
         response = jsonify({"ok": True, "results": results})
         response.headers['Content-Type'] = 'application/json'
-        return response
+        return response, {"Access-Control-Allow-Origin": "*", "Access-Control-Allow-Credentials": "true", "Access-Control-Allow-Headers": "Content-Type"}
     except Exception as e:
         return jsonify({"ok": False, "error": e})
 

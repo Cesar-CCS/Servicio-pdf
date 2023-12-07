@@ -3,8 +3,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-print(os.environ["USER_DB"])
-
 
 class BasicConfig:
     USER_DB = os.environ['USER_DB']
